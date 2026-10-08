@@ -1,0 +1,6 @@
+{
+  "name": "NetBilling ISP - Sistem Billing & Otomatisasi Jaringan",
+  "description": "Sistem billing internet terpadu dengan integrasi MikroTik RouterOS, OLT GPON/EPON, WhatsApp Gateway, dan Payment Gateway QRIS/VA otomatis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
